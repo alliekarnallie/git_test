@@ -1,3 +1,3 @@
-This is alliekarnallie’s first git project!
+This is alliekarnallies first git project!
 
 Hello Odin!
